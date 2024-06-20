@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.4](https://github.com/viarotel-org/escrcpy/compare/v1.19.3...v1.19.4) (2024-06-20)
+
+
+### Bug Fixes
+
+* Update Chinese language translations ([b8d77e3](https://github.com/viarotel-org/escrcpy/commit/b8d77e39214823b6c7903f926d68aead4f00274b))
+
 ## [1.19.3](https://github.com/viarotel-org/escrcpy/compare/v1.19.2...v1.19.3) (2024-06-13)
 
 
